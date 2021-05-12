@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountDownUtil</string>
+    <string name="action_countdown">倒计时</string>
+    <string name="action_repeat">重复</string>
+    <string name="action_cancel">cancel</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
